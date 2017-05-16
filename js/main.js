@@ -68,7 +68,7 @@ if (password=="123456" || password=="098765" || !(/^(?=.*\d).{6,}$/).test(passwo
 
 }
 	
-	contreseña();
+	contrasena();
 	
 
 function select(){
